@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green">
-  <img src="https://img.shields.io/github/license/Ign0r3dH4x0r/">
+  <img src="https://img.shields.io/github/license/Ign0r3dH4x0r/BloodyIP">
   <img src="https://img.shields.io/github/stars/Ign0r3dH4x0r/BloodyIP">
   <img src="https://img.shields.io/github/issues/Ign0r3dH4x0r/BloodyIP?color=red">
   <img src="https://img.shields.io/github/forks/Ign0r3dH4x0r/BloodyIP?color=teal">
