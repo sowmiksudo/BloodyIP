@@ -3,7 +3,7 @@
  </p>
  
  <p align="center">
- <a href="https://linktr.ee/Xowmik"><img src="https://i.ibb.co/KLJXQqX/BLOODY-IP.png" alt="NextGen" border="0"></a>
+ <a href="https://linktr.ee/Xowmik"><img src="https://i.ibb.co/KLJXQqX/BLOODY-IP.png" alt="NextGen" border="0" width="800"></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green">
